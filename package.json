@@ -1,0 +1,28 @@
+{
+	"name": "react-svgicons",
+	"version": "1.0.0",
+	"description": "SVGs as React Components",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Puritanic/React-SVGIcons.git"
+	},
+	"keywords": [
+		"react",
+		"icons",
+		"svg",
+		"jsx"
+	],
+	"author": "Darko Tasevski <darktasevski@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Puritanic/React-SVGIcons/issues"
+	},
+	"homepage": "https://github.com/Puritanic/React-SVGIcons#readme",
+	"peerDependencies": {
+		"react": "~16.0.0"
+	}
+}
